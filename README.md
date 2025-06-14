@@ -1,4 +1,4 @@
-# Desafio Trilha QA - DIO
+# O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais
 
 Bem-vindo ao repositório do **Desafio Trilha QA** da Digital Innovation One (DIO)! Este projeto foi desenvolvido para consolidar os conhecimentos adquiridos na trilha de Qualidade de Software, com foco em práticas de QA e documentação de requisitos.
 
